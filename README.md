@@ -12,6 +12,36 @@
 | --- | --- | --- |
 | OGSOD-2.0 | [Download](https://pan.baidu.com/s/1m2-f_pClLf4OgjvW8K2aWg?pwd=0601)| 0601 |
 
+
+## Dataset Structure
+```
+├── OGSOD-2.0
+│   ├── rgb
+│   │   ├── train
+│   │   │   ├── images
+│   │   │   ├── labelTxt
+│   │   ├── val
+│   │   │   ├── images
+│   │   │   ├── labelTxt
+│   │   ├── test
+│   │   │   ├── images
+│   │   │   ├── labelTxt
+│   ├── sar
+│   │   ├── train
+│   │   │   ├── images
+│   │   │   ├── labelTxt
+│   │   ├── val
+│   │   │   ├── images
+│   │   │   ├── labelTxt
+│   │   ├── test
+│   │   │   ├── images
+│   │   │   ├── labelTxt
+```
+## Label Structure
+```
+56 95 8 96 7 78 55 77 bridge 0
+```
+
 ## Citation
 If our data is helpful, you can cite our paper:
 ```
