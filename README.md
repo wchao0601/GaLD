@@ -1,7 +1,7 @@
 <div align="center">
 <!-- <h1> OGSOD-2.0 </h1> -->
 <h3> <a href="https://ieeexplore.ieee.org/abstract/document/10889285">Cross-modal Gaussian Localization Distillation for Optical Information guided SAR Object Detection</h3>
-<h4> ICASSP 2025</h4>
+<h4> Accepted to IEEE ICASSP 2025</h4>
 </div>
 
 ## **Overview**
